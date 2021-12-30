@@ -3,9 +3,9 @@
 Configuring my neovim setup feels like an endless task to me. It is fun, but can
 also be overwhelming and stressful. In this repo, I'll list the requirements I
 need when programming/using a text editor, without specifying how to do it.
-There are many ways to do the same thing, and I think by first listing the
-requirements will give a useful overview before digging into exactly what tools
-to use.
+There are many ways to do the same thing, and I think that listing the
+requirements before digging into exactly what tools to use will give a good
+overview.
 
 ## Requirements
 
