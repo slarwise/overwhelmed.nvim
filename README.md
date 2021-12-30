@@ -1,11 +1,11 @@
 # Overwhelmed.nvim
 
-Configuring your neovim setup often feels like an endless task to me. It is fun,
-but can also be overwhelming and stressful. In this repo, I aim to list the
-requirements I need when programming/using a text editor, without specifying how
-to do it. There are many ways to do the same thing, and I think by first listing
-the requirements will give a useful overview before digging into exactly what
-tools to use.
+Configuring my neovim setup feels like an endless task to me. It is fun, but can
+also be overwhelming and stressful. In this repo, I'll list the requirements I
+need when programming/using a text editor, without specifying how to do it.
+There are many ways to do the same thing, and I think by first listing the
+requirements will give a useful overview before digging into exactly what tools
+to use.
 
 ## Requirements
 
